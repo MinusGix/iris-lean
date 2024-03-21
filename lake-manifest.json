@@ -4,7 +4,7 @@
  [{"url": "https://github.com/leanprover/std4",
    "type": "git",
    "subDir": null,
-   "rev": "ae9ae7f279421e45a9b87d67f2d28aaef299de5c",
+   "rev": "ed7b93b97a40c16c6c1bcf8e4b00a14edd4428b8",
    "name": "std",
    "manifestFile": "lake-manifest.json",
    "inputRev": "main",
@@ -19,5 +19,5 @@
    "inputRev": "master",
    "inherited": false,
    "configFile": "lakefile.lean"}],
- "name": "iris",
+ "name": "Iris",
  "lakeDir": ".lake"}
